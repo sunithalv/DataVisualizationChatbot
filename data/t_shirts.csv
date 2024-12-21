@@ -1,0 +1,59 @@
+"t_shirt_id","brand","color","size","price","stock_quantity"
+1,"Van Huesen","White","XS",41,58
+2,"Levi","Blue","M",27,74
+3,"Van Huesen","Red","M",25,42
+4,"Nike","Blue","L",37,14
+6,"Levi","Blue","L",19,19
+7,"Adidas","Black","XS",33,54
+8,"Nike","White","L",42,78
+9,"Levi","White","XL",39,14
+10,"Van Huesen","Blue","XL",30,61
+11,"Levi","White","XS",16,50
+13,"Nike","Red","M",45,55
+14,"Adidas","Red","XL",21,64
+15,"Van Huesen","White","S",44,26
+18,"Nike","Blue","XS",32,46
+19,"Levi","Black","L",11,95
+20,"Nike","Red","S",20,13
+21,"Levi","Red","S",14,69
+22,"Adidas","White","S",37,68
+24,"Adidas","Red","S",29,69
+25,"Adidas","Blue","XS",42,48
+28,"Nike","Blue","S",14,74
+29,"Van Huesen","Red","XL",39,20
+30,"Levi","White","M",23,36
+31,"Levi","Black","XS",10,79
+32,"Adidas","Black","L",21,63
+33,"Van Huesen","White","M",26,44
+36,"Van Huesen","White","L",34,92
+37,"Nike","White","S",20,16
+38,"Nike","Black","L",41,60
+40,"Nike","Black","XL",36,43
+41,"Adidas","Blue","M",50,59
+42,"Adidas","Blue","XL",48,88
+45,"Adidas","Red","XS",33,36
+46,"Nike","White","XL",13,69
+47,"Van Huesen","Blue","XS",48,36
+48,"Nike","Blue","M",10,34
+49,"Levi","White","L",49,58
+50,"Adidas","Red","L",48,60
+51,"Adidas","Blue","S",49,77
+54,"Van Huesen","Black","L",46,28
+55,"Levi","Red","M",19,65
+58,"Levi","Black","M",18,44
+59,"Levi","Red","XL",28,33
+61,"Nike","Black","XS",47,100
+62,"Van Huesen","Blue","M",11,54
+63,"Levi","Blue","S",24,21
+66,"Adidas","White","M",37,15
+67,"Levi","Blue","XL",18,50
+68,"Nike","White","XS",24,38
+69,"Nike","Black","M",44,66
+74,"Van Huesen","Black","XS",46,30
+75,"Levi","Black","S",10,20
+77,"Van Huesen","Blue","L",41,97
+80,"Van Huesen","Red","S",20,27
+82,"Nike","Red","XS",10,16
+86,"Van Huesen","Blue","S",47,54
+92,"Nike","Red","XL",16,100
+93,"Nike","Black","S",37,60
