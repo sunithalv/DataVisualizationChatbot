@@ -4,11 +4,10 @@ sqlalchemy-bigquery
 google-cloud-bigquery
 python-dotenv
 pandas
-langchain-groq
 langchain-openai
-langchain-ollama
 langgraph
 streamlit 
 mysql-connector-python
 langchainhub
 plotly
+nbformat
